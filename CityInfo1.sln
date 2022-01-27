@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityInfo1_WebApi", "CityInfo1_WebApi\CityInfo1_WebApi.csproj", "{9AD57CC3-303B-4F87-9660-85230DDC52FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityInfo1_Data", "CityInfo1_Data\CityInfo1_Data.csproj", "{67F65F4A-E272-4998-8341-49B71AC1DBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD57CC3-303B-4F87-9660-85230DDC52FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD57CC3-303B-4F87-9660-85230DDC52FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD57CC3-303B-4F87-9660-85230DDC52FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD57CC3-303B-4F87-9660-85230DDC52FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F65F4A-E272-4998-8341-49B71AC1DBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F65F4A-E272-4998-8341-49B71AC1DBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F65F4A-E272-4998-8341-49B71AC1DBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F65F4A-E272-4998-8341-49B71AC1DBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF605825-7DFA-457F-B167-779937B457D5}
+	EndGlobalSection
+EndGlobal
