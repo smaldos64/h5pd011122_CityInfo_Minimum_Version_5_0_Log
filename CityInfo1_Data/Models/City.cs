@@ -21,7 +21,7 @@ namespace CityInfo1_Data.Models
         [MaxLength(200)]
         public string CityDescription { get; set; }
         
-        [ForeignKey("CountryID")]
+        [ForeignKey("CountryID")]]
         public int CountryID { get; set; }
 
         public virtual Country Country { get; set; }
